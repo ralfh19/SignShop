@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ralfh19/SignShop
+build-by-default: true
+branches:
+- main
+projects:
+  SignShop:
+    path: ""
+...
